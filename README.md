@@ -1,5 +1,7 @@
 # convolutional_neural_network
-An implementation of a convolutional neural network.
+An implementation of a convolutional neural network with numpy, pandas and matplotlib.
+
+Example of implementation with MNIST dataset in mnist.py
 
 Possible future additions:
 
