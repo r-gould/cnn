@@ -123,6 +123,7 @@ class NeuralNetwork:
     def _forward_propagate(self, X, training=True):
         for layer in self.layers:
             O = layer._forward(X, training)
+            
             X = O
 
         return O
