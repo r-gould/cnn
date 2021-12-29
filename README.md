@@ -7,4 +7,3 @@ Example of implementation with MNIST dataset in mnist.py
 Need to add:
 * Other optimizers, such as Adam, RMSProp.
 * Batch normalization layer.
-* Early stopping and reduce learning rate on plateau.
